@@ -27,3 +27,7 @@
 
 // const holdString = new HoldAnything<string>()
 // holdString.data = 'asd'
+
+
+// Composition misconsetion
+// Наследование, множественное наследование, +композиция+
